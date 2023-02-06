@@ -1,4 +1,4 @@
-package ch06_dateprocessing.util;
+package java.ch06_dateprocessing.util;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;

@@ -1,4 +1,4 @@
-package ch07_lists.solutions;
+package java.ch07_lists.solutions;
 
 import static java.util.stream.Collectors.counting;
 import static java.util.stream.Collectors.groupingBy;

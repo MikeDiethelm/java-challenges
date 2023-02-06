@@ -1,4 +1,4 @@
-package ch08_recursion_advanced.solutions;
+package java.ch08_recursion_advanced.solutions;
 
 /**
  * Example program for the book "Java Challenges"

@@ -1,4 +1,4 @@
-package ch04_strings.util;
+package java.ch04_strings.util;
 
 import java.util.Comparator;
 import java.util.Map;

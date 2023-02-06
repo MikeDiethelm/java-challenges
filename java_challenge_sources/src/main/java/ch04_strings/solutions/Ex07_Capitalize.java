@@ -1,4 +1,4 @@
-package ch04_strings.solutions;
+package java.ch04_strings.solutions;
 
 import java.util.ArrayList;
 import java.util.List;

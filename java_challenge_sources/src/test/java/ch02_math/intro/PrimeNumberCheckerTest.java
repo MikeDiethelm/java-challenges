@@ -1,4 +1,4 @@
-package ch02_math.intro;
+package java.ch02_math.intro;
 
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;

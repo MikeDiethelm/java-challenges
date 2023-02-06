@@ -1,4 +1,4 @@
-package ch03_recursion.solutions;
+package java.ch03_recursion.solutions;
 
 import java.math.BigInteger;
 

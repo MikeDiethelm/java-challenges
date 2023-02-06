@@ -1,4 +1,4 @@
-package ch02_math.solutions;
+package java.ch02_math.solutions;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

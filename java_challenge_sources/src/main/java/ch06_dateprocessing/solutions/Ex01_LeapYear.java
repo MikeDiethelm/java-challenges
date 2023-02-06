@@ -1,4 +1,4 @@
-package ch06_dateprocessing.solutions;
+package java.ch06_dateprocessing.solutions;
 
 /**
  * Example program for the book "Java Challenges"

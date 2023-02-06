@@ -1,8 +1,8 @@
-package ch05_arrays.solutions;
+package java.ch05_arrays.solutions;
 
 import java.util.EnumSet;
 
-import ch05_arrays.intro.Direction;
+import java.ch05_arrays.intro.Direction;
 
 /**
  * Example program for the book "Java Challenges"

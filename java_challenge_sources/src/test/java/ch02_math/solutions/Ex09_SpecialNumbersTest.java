@@ -1,4 +1,4 @@
-package ch02_math.solutions;
+package java.ch02_math.solutions;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
@@ -6,7 +6,7 @@ import java.util.List;
 
 import org.junit.jupiter.api.Test;
 
-import ch02_math.solutions.Ex09_SpecialArmstrongNumbers.CubicFunction;
+import java.ch02_math.solutions.Ex09_SpecialArmstrongNumbers.CubicFunction;
 
 /**
  * Example program for the book "Java Challenge"

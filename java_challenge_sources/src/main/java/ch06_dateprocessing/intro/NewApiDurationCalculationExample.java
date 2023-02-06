@@ -1,4 +1,4 @@
-package ch06_dateprocessing.intro;
+package java.ch06_dateprocessing.intro;
 
 import java.text.ParseException;
 import java.time.Duration;

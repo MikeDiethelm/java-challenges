@@ -1,4 +1,4 @@
-package ch05_arrays.solutions;
+package java.ch05_arrays.solutions;
 
 import ch05_arrays.util.ArrayUtils;
 

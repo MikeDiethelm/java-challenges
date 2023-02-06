@@ -1,4 +1,4 @@
-package ch06_dateprocessing.solutions;
+package java.ch06_dateprocessing.solutions;
 
 import java.time.Duration;
 import java.time.LocalDate;

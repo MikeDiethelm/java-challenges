@@ -1,4 +1,4 @@
-package ch03_recursion.intro;
+package java.ch03_recursion.intro;
 
 /**
  * Example program for the book "Java Challenges"

@@ -1,4 +1,4 @@
-package ch05_arrays.intro;
+package java.ch05_arrays.intro;
 
 import java.lang.reflect.Array;
 

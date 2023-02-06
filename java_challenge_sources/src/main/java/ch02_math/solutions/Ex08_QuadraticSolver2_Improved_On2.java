@@ -1,4 +1,4 @@
-package ch02_math.solutions;
+package java.ch02_math.solutions;
 
 /**
  * Example program for the book "Java Challenges"

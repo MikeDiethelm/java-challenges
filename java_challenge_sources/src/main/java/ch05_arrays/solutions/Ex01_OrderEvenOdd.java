@@ -1,8 +1,8 @@
-package ch05_arrays.solutions;
+package java.ch05_arrays.solutions;
 
 import java.util.Arrays;
 
-import ch02_math.util.MathUtils;
+import java.ch02_math.util.MathUtils;
 
 /**
  * Example program for the book "Java Challenges"

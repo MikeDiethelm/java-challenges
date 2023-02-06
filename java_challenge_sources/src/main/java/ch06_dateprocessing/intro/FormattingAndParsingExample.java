@@ -1,4 +1,4 @@
-package ch06_dateprocessing.intro;
+package java.ch06_dateprocessing.intro;
 
 import static java.time.format.DateTimeFormatter.ofPattern;
 import static java.time.format.FormatStyle.SHORT;

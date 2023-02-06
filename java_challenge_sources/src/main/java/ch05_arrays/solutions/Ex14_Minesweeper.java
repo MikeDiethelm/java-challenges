@@ -1,4 +1,4 @@
-package ch05_arrays.solutions;
+package java.ch05_arrays.solutions;
 
 /**
  * Example program for the book "Java Challenges"

@@ -1,4 +1,4 @@
-package ch03_recursion.intro;
+package java.ch03_recursion.intro;
 
 import java.util.Arrays;
 

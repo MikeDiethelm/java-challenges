@@ -1,6 +1,6 @@
-package ch09_trees.intro;
+package java.ch09_trees.intro;
 
-import ch09_trees.utils.TreeUtils;
+import java.ch09_trees.utils.TreeUtils;
 
 /**
  * Example program for the book "Java Challenges"

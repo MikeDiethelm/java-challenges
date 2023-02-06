@@ -1,4 +1,4 @@
-package ch10_searching_sorting.utils;
+package java.ch10_searching_sorting.utils;
 
 /**
  * Example program for the book "Java Challenges"

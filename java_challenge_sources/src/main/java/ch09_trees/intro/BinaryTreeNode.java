@@ -1,4 +1,4 @@
-package ch09_trees.intro;
+package java.ch09_trees.intro;
 
 import java.util.Objects;
 

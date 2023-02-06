@@ -1,6 +1,6 @@
-package ch09_trees.solutions;
+package java.ch09_trees.solutions;
 
-import ch09_trees.intro.BinaryTreeNode;
+import java.ch09_trees.intro.BinaryTreeNode;
 
 /**
  * Example program for the book "Java Challenges"

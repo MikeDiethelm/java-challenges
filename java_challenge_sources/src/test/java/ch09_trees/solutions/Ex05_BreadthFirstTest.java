@@ -1,4 +1,4 @@
-package ch09_trees.solutions;
+package java.ch09_trees.solutions;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

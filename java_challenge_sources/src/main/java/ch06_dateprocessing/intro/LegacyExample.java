@@ -1,4 +1,4 @@
-package ch06_dateprocessing.intro;
+package java.ch06_dateprocessing.intro;
 
 import java.time.Instant;
 import java.time.LocalDateTime;

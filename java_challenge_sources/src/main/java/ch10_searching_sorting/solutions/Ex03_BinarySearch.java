@@ -1,4 +1,4 @@
-package ch10_searching_sorting.solutions;
+package java.ch10_searching_sorting.solutions;
 
 import java.util.Arrays;
 

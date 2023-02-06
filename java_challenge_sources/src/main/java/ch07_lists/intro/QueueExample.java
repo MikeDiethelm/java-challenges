@@ -1,4 +1,4 @@
-package ch07_lists.intro;
+package java.ch07_lists.intro;
 
 import java.util.LinkedList;
 import java.util.Queue;

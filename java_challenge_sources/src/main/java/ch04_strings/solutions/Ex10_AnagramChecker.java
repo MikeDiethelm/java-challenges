@@ -1,4 +1,4 @@
-package ch04_strings.solutions;
+package java.ch04_strings.solutions;
 
 import java.util.Map;
 import java.util.TreeMap;

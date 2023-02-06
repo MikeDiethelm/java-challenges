@@ -1,4 +1,4 @@
-package ch07_lists.solutions;
+package java.ch07_lists.solutions;
 
 import java.util.Optional;
 import java.util.Stack;

@@ -1,4 +1,4 @@
-package appendix_junit;
+package java.appendix_junit;
 
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;

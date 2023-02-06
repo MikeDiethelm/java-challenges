@@ -1,10 +1,10 @@
-package ch09_trees.utils;
+package java.ch09_trees.utils;
 
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.function.Consumer;
 
-import ch09_trees.intro.BinaryTreeNode;
+import java.ch09_trees.intro.BinaryTreeNode;
 import ch09_trees.solutions.Ex13_TreePrinter;
 
 /**
@@ -106,6 +106,7 @@ public class TreeUtils
 
     public static <T> void nicePrint(final BinaryTreeNode<T> root)
     {
+        TreeUtils Ex13_TreePrinter = null;
         Ex13_TreePrinter.nicePrint(root);
     }
 

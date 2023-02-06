@@ -1,4 +1,4 @@
-package ch02_math.intro;
+package java.ch02_math.intro;
 
 import java.util.ArrayList;
 

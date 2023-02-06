@@ -1,4 +1,4 @@
-package ch04_strings.intro;
+package java.ch04_strings.intro;
 
 /**
  * Example program for the book "Java Challenges"

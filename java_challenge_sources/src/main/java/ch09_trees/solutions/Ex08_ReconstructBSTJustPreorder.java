@@ -1,10 +1,10 @@
-package ch09_trees.solutions;
+package java.ch09_trees.solutions;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import ch09_trees.intro.BinaryTreeNode;
-import ch09_trees.utils.TreeUtils;
+import java.ch09_trees.intro.BinaryTreeNode;
+import java.ch09_trees.utils.TreeUtils;
 
 /**
  * Example program for the book "Java Challenges"
