@@ -1,4 +1,4 @@
-package ch09_trees.solutions;
+package java.ch09_trees.solutions;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
@@ -6,8 +6,8 @@ import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 
-import ch09_trees.intro.BinaryTreeNode;
-import ch09_trees.utils.TreeUtils;
+import java.ch09_trees.intro.BinaryTreeNode;
+import java.ch09_trees.utils.TreeUtils;
 
 /**
  * Example program for the book "Java Challenges"

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.IntStream;
 
-import ch02_math.util.MathUtils;
+import java.ch02_math.util.MathUtils;
 
 /**
  * Example program for the book "Java Challenges"

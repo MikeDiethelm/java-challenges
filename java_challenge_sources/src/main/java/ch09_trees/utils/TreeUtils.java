@@ -5,7 +5,7 @@ import java.util.Queue;
 import java.util.function.Consumer;
 
 import java.ch09_trees.intro.BinaryTreeNode;
-import ch09_trees.solutions.Ex13_TreePrinter;
+import java.ch09_trees.solutions.Ex13_TreePrinter;
 
 /**
  * Example program for the book "Java Challenges"
